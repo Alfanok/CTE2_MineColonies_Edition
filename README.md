@@ -13,7 +13,7 @@
 ### ➕ Добавлены моды
 
 * Extra Disks
-* Refined Storage
+* Refined Storage Addons
 * RSInfinityBooster
 * Stylecolonies
 * TownTalk
