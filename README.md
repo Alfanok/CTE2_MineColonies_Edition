@@ -1,4 +1,4 @@
-# Craft to Exile 2 – MineColonies Edition
+# Craft to Exile 2 rework by Cosegos
 
 Небольшая переработка модпака **Craft to Exile 2**, ориентированная на развитие колоний и расширение системы хранения.
 
